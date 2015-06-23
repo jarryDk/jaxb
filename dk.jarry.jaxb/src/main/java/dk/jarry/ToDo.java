@@ -1,13 +1,9 @@
 package dk.jarry;
 
-import javax.xml.bind.annotation.XmlAccessType;
-import javax.xml.bind.annotation.XmlAccessorType;
-
 /**
  *
  * @author Michael Bornholdt Nielsen mni@jarry.dk
  */
-@XmlAccessorType(XmlAccessType.FIELD)
 public class ToDo {
 
     private Integer id;
